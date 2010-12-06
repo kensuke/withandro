@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, WithAndro!</string>
+    <string name="app_name">WithAndro</string>
+
+  <string name="TextView01">緯度</string> 
+  <string name="TextView02">経度</string> 
+  <string name="TextView03">高度</string> 
+  <string name="TextView04">速度</string> 
+  <string name="TextView05">角度</string> 
+  <string name="TextView06">精度</string> 
+  <string name="TextView07">時刻</string> 
+  <string name="TextView08">距離</string> 
+  <string name="TextView09">tbd09</string> 
+  <string name="TextView10">tbd10</string> 
+  <string name="EditText01">緯度</string> 
+  <string name="EditText02">経度</string> 
+  <string name="EditText03">高度</string> 
+  <string name="EditText04">速度</string> 
+  <string name="EditText05">角度</string> 
+  <string name="EditText06">精度</string> 
+  <string name="EditText07">時刻</string> 
+  <string name="EditText08">距離</string> 
+  <string name="EditText09">tbd09</string> 
+  <string name="EditText10">tbd10</string> 
+  <string name="btn_start">開始</string> 
+  <string name="btn_stop">終了</string> 
+
+</resources>
